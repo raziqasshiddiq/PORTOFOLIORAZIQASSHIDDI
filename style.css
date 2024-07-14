@@ -1,0 +1,130 @@
+/* Navbar */
+.navbar {
+  transition: background-color 0.3s ease;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #fff;
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-color: #fff;
+}
+
+/* Jumbotron */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  margin-bottom: 0;
+}
+
+.jumbotron img {
+  margin-bottom: 2rem;
+}
+
+/* About */
+#Tentang Saya {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* Project */
+#Project {
+  background-color: #f8f9fa;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+  height: 100%;
+}
+
+.card-body {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-text {
+  margin-bottom: 0;
+}
+
+.card-text ol {
+  padding-left: 20px;
+}
+
+.card-text li {
+  margin-bottom: 10px;
+}
+
+@media (max-width: 767.98px) {
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-img-top {
+    height: 250px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 992px) {
+  .card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+}
+
+@media (min-width: 1200px) {
+  .card-img-top {
+    height: 350px;
+    object-fit: cover;
+  }
+}
+/* foto */
+#foto {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* Contact */
+#Contact {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* foto */
+#foto {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+
+/* Footer */
+footer {
+  background-color: #343a40;
+  color: #fff;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+footer span {
+  font-size: 0.9rem;
+}
+
+footer .fab {
+  margin: 0 0.5rem;
+}

@@ -1,2 +1,1 @@
-# PORTOFOLIORAZIQASSHIDDI
-Portofolio Raziq Asshiddiq
+portofolio raziq asshiddiq tugas individual challange
