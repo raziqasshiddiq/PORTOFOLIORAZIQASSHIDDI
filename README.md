@@ -1,0 +1,2 @@
+# PORTOFOLIORAZIQASSHIDDI
+Portofolio Raziq Asshiddiq
